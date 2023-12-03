@@ -12,7 +12,7 @@ Welcome to the My Portofolio! This project is an interactive and immersive websi
 
 
 ## Preview
-![Clone view](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*bxkjivUKozCTnTtsUOq2nQ.png)
+<img width="960" alt="preview" src="https://github.com/permenkojek/portofolio/assets/80977750/e8171ec2-273b-4f37-8b3a-bb63b08fc26f">
 
 ## Technologies Used
 
